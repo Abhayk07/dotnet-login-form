@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\bin\Debug\abhay final.exe.config
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\bin\Debug\abhay final.exe
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\bin\Debug\abhay final.pdb
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay final.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay final.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay_final.Form1.resources
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay_final.Properties.Resources.resources
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay final.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay final.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay final.exe
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay final.pdb
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay_final.Form2.resources
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay_final.Form3.resources
+C:\Users\HP\Desktop\abhay\abhay final\abhay final\obj\Debug\abhay_final.Form4.resources
